@@ -5,7 +5,9 @@ User enters a list of unsigned numbers and then asks if this list of numbers is 
 • Comma should be used to separate numbers, any keypad button other than the numbers can be used as comma. 
 • The user will press any button than the one used for the comma and the numbers for the system to check the entered list.  check the list numbers is prime and not prime numbers . 
 • If the process 1: o If the sequence is “Prime”, then the system will tell the user that it’s a valid Prime number sequence. o The users will be allowed to enter N. A number that presents a place in the sequence to be calculated. 
-• If the process 2: o If the sequence is “ positive and negative”, then the system will tell the user that it’s a  positive and negative. o The users will be allowed to enter N. A number that presents.
+• If the process 2: 
+o If the sequence is “ positive and negative”, then the system will tell the user that it’s a  positive and negative.
+o The users will be allowed to enter N. A number that presents.
 
 # Learning-outcomes:
 - Ability to write Assembly Language programs for the Intel 8086 microprocessors.
